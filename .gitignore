@@ -1,0 +1,5 @@
+*.o
+*.db
+*.out
+*.tmp
+*.fuse*
